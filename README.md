@@ -49,6 +49,5 @@ The proposed architecture combines **Convolutional Neural Networks (CNN)** with 
 
 ---
 
-## 📂 Repository Structure
 
 
