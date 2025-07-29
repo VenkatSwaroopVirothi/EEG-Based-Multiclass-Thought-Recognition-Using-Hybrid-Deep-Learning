@@ -5,8 +5,9 @@
 We use the publicly available **Kumar's EEG Imagined Speech Dataset**, which contains EEG signals collected from three subjects imagining:
 
 - **Digits (0–9)**
-- **English characters (A–J)**
-- **Objects (common image categories)**
+- **English characters (A,C,F,H, J,M,P,S,T,Y)**
+- **Objects (common image categories:Apple,Car,Dog,Gold,Mobile,Rose,Scooter,Tiger,Wallet and
+ Watch)**
 
 📥 Dataset source:  
 [https://www.kaggle.com/datasets/ignazio/kumars-eeg-imagined-speech](https://www.kaggle.com/datasets/ignazio/kumars-eeg-imagined-speech)
